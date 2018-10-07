@@ -32,7 +32,7 @@ https://www.yosemitehikes.com/hikes.htm - hiking trails
 Outline:
 Index page
 Interactive map of Yosemite
-Using Leafly and mapbox to plot map of Yosemite
+Using Leaflet and Mapbox to plot map of Yosemite
 Create a polygon layer of 7 regions of Yosemite (we will reference visitor data from 1986-present for these regions)
 Create a marker layer for trail head markers
 Web scrape to display current weather and recent news
